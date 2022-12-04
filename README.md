@@ -1,9 +1,9 @@
 # KFZ LU
 ## Protokoll
 
-Interaktives Dokument (exkl. code cells): 
+Interaktives Dokument - Voila (exkl. code cells): <br>
 https://hub.gke2.mybinder.org/user/marcussteinbacher-kfzlu-d5sjobd9/voila/render/Protokoll.ipynb
 
-Notebook mit code cells:
-Registerkarte `Cell` - `Run All`
-[![Binder](https://hub.gke2.mybinder.org/user/marcussteinbacher-kfzlu-d5sjobd9/notebooks/Protokoll.ipynb)
+Jupyter Notebook (inkl. code cells): <br>
+Registerkarte `Cell` - `Run All` <br>
+https://hub.gke2.mybinder.org/user/marcussteinbacher-kfzlu-d5sjobd9/notebooks/Protokoll.ipynb
