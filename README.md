@@ -1,6 +1,9 @@
 # KFZ LU
 ## Protokoll
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcussteinbacher/kfzlu/HEAD)
+Interaktives Dokument (exkl. code cells): 
+https://hub.gke2.mybinder.org/user/marcussteinbacher-kfzlu-d5sjobd9/voila/render/Protokoll.ipynb
 
-https://mybinder.org/v2/gh/marcussteinbacher/kfzlu/0e836f6c34eb75f344cf27b0401a86283b807d51?urlpath=lab%2Ftree%2FProtokoll.ipynb
+Notebook mit code cells:
+Registerkarte `Cell` - `Run All`
+[![Binder](https://hub.gke2.mybinder.org/user/marcussteinbacher-kfzlu-d5sjobd9/notebooks/Protokoll.ipynb)
